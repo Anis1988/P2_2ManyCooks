@@ -1,4 +1,4 @@
-# StoreManagement
+# 2ManyCooks
 
 ## Project Description 
 Cookbooks and recipe guides are everywhere. Everybody uses them. Everybody has struggled with them. The goal of In The Kitchen is to provide a product that takes the hassle out of finding and following a new recipe. No longer will people need to check, double-check and triple-check their recipes before moving on to the next step. Instead the application will provide a streamlined, step-by-step, easy-to-use guide that will provide would-be chefs all the information they need to prepare the perfect dish. There will be directions and images to show and describe what their dish should look like at every step. Users will also be able to share their own recipes. In The Kitchen will allow users to share their feedback and experiences. Users will be able to give recipes a rating and leave comments for other users to see. Recipes will also be easy to find. Users will be able to browse or search for recipes by name or tags to always find what they're looking for.
@@ -31,6 +31,7 @@ Cookbooks and recipe guides are everywhere. Everybody uses them. Everybody has s
 * Ability to log in as an Admin with extra functionallity like delete recipe/user edit recipe
 * Ability to call a third API for nutritiion info  
 * Ability to search recipe by Name / Tag / Ingredients
+* Ability to add your own recipe (needs to be approved by the admin)
 * implemented a Pagination feature  
 
 #### To-do list:
