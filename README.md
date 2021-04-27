@@ -43,7 +43,7 @@ To-do list:
 * Compiling a list of ingredients for a recipe into a shopping-list.
 * Providing recipe recommendations based off of ingredient preferences.
 * More detailed nutritional information for ingredients/recipes.
-* Measurement/conversion/timing tools to assis with preparing/creating recipes.
+* Measurement/conversion/timing tools to assist with preparing/creating recipes.
 
 ## Getting Started
    
